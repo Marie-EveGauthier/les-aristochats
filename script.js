@@ -1,10 +1,10 @@
 $(document).ready(function(){
-	$('img').mouseenter(function(){
+	$('td').mouseenter(function(){
 		$(this).animate({
 			height: '+=10px'
 		});
 	});
-	$('img').mouseleave(function(){
+	$('td').mouseleave(function(){
 		$(this).animate({
 			height: '-+10px'
 		});
