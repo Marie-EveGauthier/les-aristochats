@@ -9,3 +9,4 @@ $(document).ready(function(){
 			height: '-+10px'
 		});
 	});
+});
